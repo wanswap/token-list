@@ -11,6 +11,20 @@
       "symbol": "FNX",
       "decimals": 18
     },
+    {
+      "chainId": 3,
+      "address": "0x48344649b9611a891987b2db33faada3ac1d05ec",
+      "name": "Crosschain ETH",
+      "symbol": "wanETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 3,
+      "address": "0xab839532149d889a417e1275eab0b62b2ad32d09",
+      "name": "Crosschain BTC",
+      "symbol": "wanBTC",
+      "decimals": 8
+    },
   ],
   "version": { "major": 0, "minor": 0, "patch": 0 }
 }
