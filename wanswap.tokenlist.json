@@ -18,7 +18,7 @@
       "name": "Crosschain ETH",
       "symbol": "wanETH",
       "decimals": 18,
-	  "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/eth.png"
+	  "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanETH.png"
     },
     {
       "chainId": 3,
@@ -26,7 +26,7 @@
       "name": "Crosschain BTC",
       "symbol": "wanBTC",
       "decimals": 8,
-	  "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/btc.png"
+	  "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanBTC.png"
     }
   ],
   "version": { "major": 0, "minor": 0, "patch": 0 }
