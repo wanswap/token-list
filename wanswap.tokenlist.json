@@ -3,7 +3,48 @@
   "logoURI": "https://github.com/wanswap/token-list/raw/main/wanswap_token_list.png",
   "keywords": ["defi", "wanswap", "yield"],
   "timestamp": "2020-08-25T01:40:34.305Z",
-  "tokens": [{
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xc6f4465a6a521124c8e3096b62575c157999d361",
+      "name": "FNX",
+      "symbol": "FNX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/fnx.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xe3ae74d1518a76715ab4c7bedf1af73893cd435a",
+      "name": "wanETH",
+      "symbol": "wanETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanETH.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xd15e200060fc17ef90546ad93c1c61bfefdc89c7",
+      "name": "wanBTC",
+      "symbol": "wanBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanBTC.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x81862b7622ced0defb652addd4e0c110205b0040",
+      "name": "wanEOS",
+      "symbol": "wanEOS",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanEOS.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0x11e77e27af5539872efed10abaa0b408cfd9fbbd",
+      "name": "wanUSDT",
+      "symbol": "wanUSDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wanUSDT.png"
+    },
+    {
       "chainId": 3,
       "address": "0x974ab46969d3d9a4569546051a797729e301d6eb",
       "name": "FNX",
@@ -54,7 +95,7 @@
   ],
   "version": {
     "major": 0,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
