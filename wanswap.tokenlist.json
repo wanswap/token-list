@@ -50,7 +50,7 @@
       "name": "WWAN",
       "symbol": "WWAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wan.png"
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wwan.png"
     },
     {
       "chainId": 3,
@@ -106,7 +106,7 @@
       "name": "WWAN",
       "symbol": "WWAN",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wan.png"
+      "logoURI": "https://raw.githubusercontent.com/wanswap/token-list/main/icons/wwan.png"
     }
   ],
   "version": {
